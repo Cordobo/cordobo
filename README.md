@@ -4,7 +4,7 @@
 
 🔭 I’m currently working with react-native
 
-🌱 I’m currently learning SwiftUI and svelte
+🌱 I’m currently learning Swift, SwiftUI and svelte
 
 <!--
 **Cordobo/cordobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
