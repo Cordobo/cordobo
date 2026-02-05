@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Swift and SwiftUI
 
-⚡ Fun fact: Nobody 
+⚡ Fun fact: I make stuffies come to life!
 
 <!--
 **Cordobo/cordobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
