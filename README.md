@@ -2,9 +2,11 @@
 
 ⚡ I’m currently working on https://github.com/Cordobo/angularx-qrcode
 
-🔭 I’m currently working with react-native
+🔭 I’m currently working with typescript and python.
 
-🌱 I’m currently learning Swift, SwiftUI and svelte
+🌱 I’m currently learning Swift and SwiftUI
+
+⚡ Fun fact: Nobody 
 
 <!--
 **Cordobo/cordobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
